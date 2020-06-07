@@ -28,6 +28,6 @@
 
 **• Serial_Parallel_Compare_mp2h** - Extension of MP1H, explored the runtime performance using serialization and parallelization and concluded which was more effective.
 
-**• 2048_Game_mp3h** - Used array manipulation and pointers to code a version of the popular game 2048.
+**• Parallel_Mergesort_mp3h** - Used threading knowledge to implement both sequential and parallel versions of the mergesort algorithm.
 
-**• DFS_Maze_Solver_mp4h** - Used file input/output technique and DFS to create a recursively functional Maze Solver.
+**• Parallel_Tree_Finder_mp4h** - Used parallel threading to develop an algorithm which finds a specific element in a binary tree.
