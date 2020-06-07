@@ -1,0 +1,52 @@
+Starting Autograder...
+
+============Construtor/Magnitude/Phase Tests============
+1. RealNumber Construtor/Magnitude/Phase +4pts
+
+2. ImaginaryNumber Construtor/Magnitude/Phase +5pts
+
+3. ComplexNumber Construtor/Magnitude/Phase +5pts
+
+
+============Getter and Setter Tests============
+4. RealNumber Getter/Setter +4pts
+
+5. ImaginaryNumber Getter/Setter +5pts
+
+6. ComplexNumber Getter/Setter +5pts
+
+
+============Real Number Calculation Tests============
+7. RealNumber (op) RealNumber 
++8pts
+
+8. RealNumber (op) ImaginaryNumber 
++8pts
+
+9. RealNumber (op) ComplexNumber 
++8pts
+
+
+============Imaginary Number Calculation Tests============
+10. ImaginaryNumber (op) RealNumber 
++8pts
+
+11. ImaginaryNumber (op) ImaginaryNumber 
++8pts
+
+12. ImaginaryNumber (op) ComplexNumber 
++8pts
+
+
+============Complex Number Calculation Tests============
+13. ComplexNumber (op) RealNumber 
++8pts
+
+14. ComplexNumber (op) ImaginaryNumber 
++8pts
+
+15. ComplexNumber (op) ComplexNumber 
++8pts
+
+
+Grading Complete! Total score is 100 out of 100 points.
