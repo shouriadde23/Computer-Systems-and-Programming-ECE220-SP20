@@ -1,9 +1,9 @@
 # ECE 220 SPRING 2020
 Normal MPs:
 -------------
-**_ L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
+**L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
 
-**LC3_Stack_Calculator_mp2** - Used LC3 and basic stack operations to develop simple arithmetic calculator.
+**__ __LC3_Stack_Calculator_mp2** - Used LC3 and basic stack operations to develop simple arithmetic calculator.
 
 **Pascal’s_Triangle_mp3** - Simple C Program which prints all Pascal’s Triangle values using user-given row index.
 
