@@ -1,0 +1,646 @@
+level is equal to 0
+******Creating new node with value 4
+level is equal to 1
+******Creating new node with value 221
+level is equal to 2
+******Creating new node with value 433
+level is equal to 3
+******Creating new node with value 651
+level is equal to 4
+******Creating new node with value 867
+level is equal to 5
+******Creating new node with value 1079
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1079
+level is equal to 5
+******Creating new node with value 1163
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1163
+root is 867
+level is equal to 4
+******Creating new node with value 941
+level is equal to 5
+******Creating new node with value 1153
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1153
+level is equal to 5
+******Creating new node with value 1237
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1237
+root is 941
+root is 651
+level is equal to 3
+******Creating new node with value 715
+level is equal to 4
+******Creating new node with value 931
+level is equal to 5
+******Creating new node with value 1148
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1148
+level is equal to 5
+******Creating new node with value 1232
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1232
+root is 931
+level is equal to 4
+******Creating new node with value 1005
+level is equal to 5
+******Creating new node with value 1217
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1217
+level is equal to 5
+******Creating new node with value 1301
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1301
+root is 1005
+root is 715
+root is 433
+level is equal to 2
+******Creating new node with value 487
+level is equal to 3
+******Creating new node with value 703
+level is equal to 4
+******Creating new node with value 917
+level is equal to 5
+******Creating new node with value 1129
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1129
+level is equal to 5
+******Creating new node with value 1213
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1213
+root is 917
+level is equal to 4
+******Creating new node with value 991
+level is equal to 5
+******Creating new node with value 1207
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1207
+level is equal to 5
+******Creating new node with value 1291
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1291
+root is 991
+root is 703
+level is equal to 3
+******Creating new node with value 767
+level is equal to 4
+******Creating new node with value 985
+level is equal to 5
+******Creating new node with value 1204
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1204
+level is equal to 5
+******Creating new node with value 1288
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1288
+root is 985
+level is equal to 4
+******Creating new node with value 1059
+level is equal to 5
+******Creating new node with value 1272
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1272
+level is equal to 5
+******Creating new node with value 1356
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1356
+root is 1059
+root is 767
+root is 487
+root is 221
+level is equal to 1
+******Creating new node with value 265
+level is equal to 2
+******Creating new node with value 481
+level is equal to 3
+******Creating new node with value 699
+level is equal to 4
+******Creating new node with value 909
+level is equal to 5
+******Creating new node with value 1128
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1128
+level is equal to 5
+******Creating new node with value 1212
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1212
+root is 909
+level is equal to 4
+******Creating new node with value 983
+level is equal to 5
+******Creating new node with value 1199
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1199
+level is equal to 5
+******Creating new node with value 1283
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1283
+root is 983
+root is 699
+level is equal to 3
+******Creating new node with value 763
+level is equal to 4
+******Creating new node with value 978
+level is equal to 5
+******Creating new node with value 1194
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1194
+level is equal to 5
+******Creating new node with value 1278
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1278
+root is 978
+level is equal to 4
+******Creating new node with value 1052
+level is equal to 5
+******Creating new node with value 1264
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1264
+level is equal to 5
+******Creating new node with value 1348
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1348
+root is 1052
+root is 763
+root is 481
+level is equal to 2
+******Creating new node with value 535
+level is equal to 3
+******Creating new node with value 754
+level is equal to 4
+******Creating new node with value 967
+level is equal to 5
+******Creating new node with value 1183
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1183
+level is equal to 5
+******Creating new node with value 1267
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1267
+root is 967
+level is equal to 4
+******Creating new node with value 1041
+level is equal to 5
+******Creating new node with value 1256
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1256
+level is equal to 5
+******Creating new node with value 1340
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1340
+root is 1041
+root is 754
+level is equal to 3
+******Creating new node with value 818
+level is equal to 4
+******Creating new node with value 1028
+level is equal to 5
+******Creating new node with value 1247
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1247
+level is equal to 5
+******Creating new node with value 1331
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1331
+root is 1028
+level is equal to 4
+******Creating new node with value 1102
+level is equal to 5
+******Creating new node with value 1320
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1320
+level is equal to 5
+******Creating new node with value 1404
+level is equal to 6
+returning NULL
+level is equal to 6
+returning NULL
+root is 1404
+root is 1102
+root is 818
+root is 535
+root is 265
+root is 4
+*******STARTING TREE TRAVERSAL****** 
+1079, 867, 1163, 651, 1153, 941, 1237, 433, 1148, 931, 1232, 715, 1217, 1005, 1301, 221, 1129, 917, 1213, 703, 1207, 991, 1291, 487, 1204, 985, 1288, 767, 1272, 1059, 1356, 4, 1128, 909, 1212, 699, 1199, 983, 1283, 481, 1194, 978, 1278, 763, 1264, 1052, 1348, 265, 1183, 967, 1267, 754, 1256, 1041, 1340, 535, 1247, 1028, 1331, 818, 1320, 1102, 1404, 
+**** STARTING TO PRINT GLOBAL TREE ARRAY'S CONTENTS****
+1079,  867, 1163,  651, 1153,  941, 1237,  433, 1148,  931, 1232,  715, 1217, 1005, 1301,  221, 
+1129,  917, 1213,  703, 1207,  991, 1291,  487, 1204,  985, 1288,  767, 1272, 1059, 1356, 
+   4, 1128,  909, 1212,  699, 1199,  983, 1283,  481, 1194,  978, 1278,  763, 1264, 1052, 
+1348,  265, 1183,  967, 1267,  754, 1256, 1041, 1340,  535, 1247, 1028, 1331,  818, 1320, 
+1102, 1404, 
+Index is 62, going to return 1404
+1404
+****SEARCHING FOR TARGET VALUE -2***
+ENTERED... This node is 4
+Creating left thread when this node is 4
+ENTERED... This node is 221
+Creating left thread when this node is 221
+ENTERED... This node is 433
+Creating left thread when this node is 433
+ENTERED... This node is 651
+Creating left thread when this node is 651
+ENTERED... This node is 867
+Creating left thread when this node is 867
+ENTERED... This node is 1079
+Creating left thread when this node is 1079
+root is NULL calling thread exit
+Creating right thread when this node is 1079
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1079
+Creating right thread when this node is 867
+ENTERED... This node is 1163
+Creating left thread when this node is 1163
+root is NULL calling thread exit
+Creating right thread when this node is 1163
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1163
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 867
+Creating right thread when this node is 651
+ENTERED... This node is 941
+Creating left thread when this node is 941
+ENTERED... This node is 1153
+Creating left thread when this node is 1153
+root is NULL calling thread exit
+Creating right thread when this node is 1153
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1153
+Creating right thread when this node is 941
+ENTERED... This node is 1237
+Creating left thread when this node is 1237
+root is NULL calling thread exit
+Creating right thread when this node is 1237
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1237
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 941
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 651
+Creating right thread when this node is 433
+ENTERED... This node is 715
+Creating left thread when this node is 715
+ENTERED... This node is 931
+Creating left thread when this node is 931
+ENTERED... This node is 1148
+Creating left thread when this node is 1148
+root is NULL calling thread exit
+Creating right thread when this node is 1148
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1148
+Creating right thread when this node is 931
+ENTERED... This node is 1232
+Creating left thread when this node is 1232
+root is NULL calling thread exit
+Creating right thread when this node is 1232
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1232
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 931
+Creating right thread when this node is 715
+ENTERED... This node is 1005
+Creating left thread when this node is 1005
+ENTERED... This node is 1217
+Creating left thread when this node is 1217
+root is NULL calling thread exit
+Creating right thread when this node is 1217
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1217
+Creating right thread when this node is 1005
+ENTERED... This node is 1301
+Creating left thread when this node is 1301
+root is NULL calling thread exit
+Creating right thread when this node is 1301
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1301
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1005
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 715
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 433
+Creating right thread when this node is 221
+ENTERED... This node is 487
+Creating left thread when this node is 487
+ENTERED... This node is 703
+Creating left thread when this node is 703
+ENTERED... This node is 917
+Creating left thread when this node is 917
+ENTERED... This node is 1129
+Creating left thread when this node is 1129
+root is NULL calling thread exit
+Creating right thread when this node is 1129
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1129
+Creating right thread when this node is 917
+ENTERED... This node is 1213
+Creating left thread when this node is 1213
+root is NULL calling thread exit
+Creating right thread when this node is 1213
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1213
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 917
+Creating right thread when this node is 703
+ENTERED... This node is 991
+Creating left thread when this node is 991
+ENTERED... This node is 1207
+Creating left thread when this node is 1207
+root is NULL calling thread exit
+Creating right thread when this node is 1207
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1207
+Creating right thread when this node is 991
+ENTERED... This node is 1291
+Creating left thread when this node is 1291
+root is NULL calling thread exit
+Creating right thread when this node is 1291
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1291
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 991
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 703
+Creating right thread when this node is 487
+ENTERED... This node is 767
+Creating left thread when this node is 767
+ENTERED... This node is 985
+Creating left thread when this node is 985
+ENTERED... This node is 1204
+Creating left thread when this node is 1204
+root is NULL calling thread exit
+Creating right thread when this node is 1204
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1204
+Creating right thread when this node is 985
+ENTERED... This node is 1288
+Creating left thread when this node is 1288
+root is NULL calling thread exit
+Creating right thread when this node is 1288
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1288
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 985
+Creating right thread when this node is 767
+ENTERED... This node is 1059
+Creating left thread when this node is 1059
+ENTERED... This node is 1272
+Creating left thread when this node is 1272
+root is NULL calling thread exit
+Creating right thread when this node is 1272
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1272
+Creating right thread when this node is 1059
+ENTERED... This node is 1356
+Creating left thread when this node is 1356
+root is NULL calling thread exit
+Creating right thread when this node is 1356
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1356
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1059
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 767
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 487
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 221
+Creating right thread when this node is 4
+ENTERED... This node is 265
+Creating left thread when this node is 265
+ENTERED... This node is 481
+Creating left thread when this node is 481
+ENTERED... This node is 699
+Creating left thread when this node is 699
+ENTERED... This node is 909
+Creating left thread when this node is 909
+ENTERED... This node is 1128
+Creating left thread when this node is 1128
+root is NULL calling thread exit
+Creating right thread when this node is 1128
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1128
+Creating right thread when this node is 909
+ENTERED... This node is 1212
+Creating left thread when this node is 1212
+root is NULL calling thread exit
+Creating right thread when this node is 1212
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1212
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 909
+Creating right thread when this node is 699
+ENTERED... This node is 983
+Creating left thread when this node is 983
+ENTERED... This node is 1199
+Creating left thread when this node is 1199
+root is NULL calling thread exit
+Creating right thread when this node is 1199
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1199
+Creating right thread when this node is 983
+ENTERED... This node is 1283
+Creating left thread when this node is 1283
+root is NULL calling thread exit
+Creating right thread when this node is 1283
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1283
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 983
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 699
+Creating right thread when this node is 481
+ENTERED... This node is 763
+Creating left thread when this node is 763
+ENTERED... This node is 978
+Creating left thread when this node is 978
+ENTERED... This node is 1194
+Creating left thread when this node is 1194
+root is NULL calling thread exit
+Creating right thread when this node is 1194
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1194
+Creating right thread when this node is 978
+ENTERED... This node is 1278
+Creating left thread when this node is 1278
+root is NULL calling thread exit
+Creating right thread when this node is 1278
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1278
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 978
+Creating right thread when this node is 763
+ENTERED... This node is 1052
+Creating left thread when this node is 1052
+ENTERED... This node is 1264
+Creating left thread when this node is 1264
+root is NULL calling thread exit
+Creating right thread when this node is 1264
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1264
+Creating right thread when this node is 1052
+ENTERED... This node is 1348
+Creating left thread when this node is 1348
+root is NULL calling thread exit
+Creating right thread when this node is 1348
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1348
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1052
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 763
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 481
+Creating right thread when this node is 265
+ENTERED... This node is 535
+Creating left thread when this node is 535
+ENTERED... This node is 754
+Creating left thread when this node is 754
+ENTERED... This node is 967
+Creating left thread when this node is 967
+ENTERED... This node is 1183
+Creating left thread when this node is 1183
+root is NULL calling thread exit
+Creating right thread when this node is 1183
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1183
+Creating right thread when this node is 967
+ENTERED... This node is 1267
+Creating left thread when this node is 1267
+root is NULL calling thread exit
+Creating right thread when this node is 1267
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1267
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 967
+Creating right thread when this node is 754
+ENTERED... This node is 1041
+Creating left thread when this node is 1041
+ENTERED... This node is 1256
+Creating left thread when this node is 1256
+root is NULL calling thread exit
+Creating right thread when this node is 1256
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1256
+Creating right thread when this node is 1041
+ENTERED... This node is 1340
+Creating left thread when this node is 1340
+root is NULL calling thread exit
+Creating right thread when this node is 1340
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1340
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1041
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 754
+Creating right thread when this node is 535
+ENTERED... This node is 818
+Creating left thread when this node is 818
+ENTERED... This node is 1028
+Creating left thread when this node is 1028
+ENTERED... This node is 1247
+Creating left thread when this node is 1247
+root is NULL calling thread exit
+Creating right thread when this node is 1247
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1247
+Creating right thread when this node is 1028
+ENTERED... This node is 1331
+Creating left thread when this node is 1331
+root is NULL calling thread exit
+Creating right thread when this node is 1331
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1331
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1028
+Creating right thread when this node is 818
+ENTERED... This node is 1102
+Creating left thread when this node is 1102
+ENTERED... This node is 1320
+Creating left thread when this node is 1320
+root is NULL calling thread exit
+Creating right thread when this node is 1320
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1320
+Creating right thread when this node is 1102
+ENTERED... This node is 1404
+Creating left thread when this node is 1404
+root is NULL calling thread exit
+Creating right thread when this node is 1404
+root is NULL calling thread exit
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1404
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 1102
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 818
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 535
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 265
+DONE IS FALSE FOR THIS NODE'S RIGHT AND LEFT 4
+RETURN FROM SEARCH PARALLEL
+Found nothing
