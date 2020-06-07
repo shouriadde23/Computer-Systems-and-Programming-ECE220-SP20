@@ -1,6 +1,5 @@
-# ECE 220 SPRING 2020
-Normal MPs:
--------------
+# ECE 220 Spring 2020
+
 **• L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
 
 **• LC3_Stack_Calculator_mp2** - Used LC3 and basic stack operations to develop simple arithmetic calculator.
@@ -24,3 +23,5 @@ Normal MPs:
 **• Tree_FloorPlan_mp11** - Used tree concepts and recursion to implement functionalities for a given floor-plan. 
 
 **• Intro_C++_NumberOps_mp12** - Used simple C++ class properties to develop an arithmetic calculator for real, imaginary, and complex numbers.
+
+
