@@ -24,4 +24,10 @@
 
 **• Intro_C++_NumberOps_mp12** - Used simple C++ class properties to develop an arithmetic calculator for real, imaginary, and complex numbers.
 
+**• Serial_PThread_Intro_mp1h** - Learned how to implement simple sum accumulator using a serialized and a parallel (multi-threading) approach.
 
+**• Serial_Parallel_Compare_mp2h** - Extension of MP1H, explored the runtime performance using serialization and parallelization and concluded which was more effective.
+
+**• 2048_Game_mp3h** - Used array manipulation and pointers to code a version of the popular game 2048.
+
+**• DFS_Maze_Solver_mp4h** - Used file input/output technique and DFS to create a recursively functional Maze Solver.
