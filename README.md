@@ -1,7 +1,7 @@
 # ECE 220 SPRING 2020
 Normal MPs:
 -------------
-**L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
+**_ L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
 
 **LC3_Stack_Calculator_mp2** - Used LC3 and basic stack operations to develop simple arithmetic calculator.
 
