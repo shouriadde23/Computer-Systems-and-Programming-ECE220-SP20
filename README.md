@@ -1,5 +1,7 @@
 # ECE 220 Spring 2020
 
+# This repository contains all my MPs (machine projects) for both the normal and honors sections of Computer Systems & Programming (ECE 220) taken at the University of Illinois, Urbana-Champaign during the Spring 2020 semester. Some of the important concepts I learned in this class were LC3 Assembly Language, fundamental C programming topics such as: Arrays, Pointers, Backtracking, DFS, Linked Lists, and Trees. Finally, I obtained a fundamental of introductory C++ concepts and a strong understanding of multithreading.
+
 **• L3_Histogram_mp1** - Used LC3 Assembly Language to print out appropriate frequencies of an alphabetic histogram.
 
 **• LC3_Stack_Calculator_mp2** - Used LC3 and basic stack operations to develop simple arithmetic calculator.
