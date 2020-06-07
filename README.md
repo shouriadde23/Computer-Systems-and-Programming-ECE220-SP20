@@ -6,6 +6,7 @@ Normal MPs:
 **Pascal’s_Triangle_mp3** - Simple C Program which prints all Pascal’s Triangle values using user-given row index.
 **SemiPrimes_mp4** - C Program which computes all semi-prime numbers in a valid user-defined range of numbers.
 **Wheel_Of_Fortune_mp5** - Used random number generation and simple array parsing to generate modified Wheel of Fortune game.
+
 **Game_Of_Life_mp6** - Utilized array looping & copying concepts to create a modified version of John Conway’s Game of Life.
 
 **Sudoku_Solver_mp7** - Array concepts and backtracking used to create an efficient Sudoku solver program.
