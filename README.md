@@ -1,6 +1,6 @@
 # ECE 220 Spring 2020
 
-**This repository contains all my coursework projects for both the normal and honors sections of Computer Systems & Programming (ECE 220), taken at the University of Illinois, Urbana-Champaign during the Spring 2020 semester. Some of the important concepts I learned were LC3 Assembly Language Programming, C programming topics such as: Arrays, Pointers, Backtracking, DFS, Linked Lists, Trees, and how to convert C to LC3 Assembly Language. Finally, I obtained a fundamental of introductory C++ concepts and a strong understanding of multithreading.**
+This repository contains all my coursework projects for both the normal and honors sections of Computer Systems & Programming (ECE 220), taken at the University of Illinois, Urbana-Champaign during the Spring 2020 semester. Some of the important concepts I learned were LC3 Assembly Language Programming, C programming topics such as: Arrays, Pointers, Backtracking, DFS, Linked Lists, Trees, and how to convert C to LC3 Assembly Language. Finally, I obtained a fundamental of introductory C++ concepts and a strong understanding of multithreading.
 
 **• Sudoku_Solver_mp7** - Array concepts and backtracking used to create an efficient Sudoku solver program.
 
